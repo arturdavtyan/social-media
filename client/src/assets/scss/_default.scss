@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Nunito;
+  src: url(../fonts/Nunito-Regular.ttf) format('truetype');
+  font-weight: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+html {
+  font-size: 15px;
+  font-family: "Nunito", Tahoma, sans-serif;
+  color: #363636;
+}
+
+[v-cloak] {
+  display: none;
+}
